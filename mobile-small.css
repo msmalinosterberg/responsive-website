@@ -1,0 +1,65 @@
+@media (max-width: 767px) {
+   
+/* HEADER */
+
+header {
+    height: 3.38rem;
+    
+}
+    
+.icon { 
+    height: 2.3rem;
+
+}
+
+ul {
+    display: none;
+
+}
+
+.hamburger { 
+    display: unset;
+
+}
+
+/* HEADER */
+
+/*  MAIN */
+h1 {
+    font-size: 3rem;
+
+}
+
+/*  MAIN */
+
+/* FOOTER */
+
+footer {
+    padding-top: 2.5rem;
+    padding-bottom: 4rem;
+
+ }
+
+
+.items-in-footer {
+    flex-direction: column;
+    
+}
+
+.socialmedia-icons {
+    flex-direction: row;
+    margin-left: 1rem;
+    justify-content: normal;
+
+}
+    
+.links-container {
+    flex-direction: column;
+    margin-top: 1rem;
+    margin-bottom: 7rem;
+}
+    
+    
+/* FOOTER */
+
+}

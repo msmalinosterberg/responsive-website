@@ -1,0 +1,20 @@
+Inlämningsuppgift 1 2020-09-25 
+
+Malin Österberg 
+Felicia Segerholm 
+
+Val av hemsida: www.spotify.com 
+
+Avgränsningar: 
+Vi har valt att inte:
+- Ta med de responsiva elementen i hero-bilden (gröna bubblorna),
+- Radbryta texten i defaultsize i main-delen dvs. att "Listening" inte är satt till vänster. 
+- Ta med menyn längst ner i footern med delarna Juridisk Info m.m. samt flaggan. 
+
+Vi fokuserade istället på storleksförändringen på texten i responsiviteten. 
+
+Spotifys logotyp är en bild då vi inte fick fram orginal-ikonen. 
+
+Skärmdumpar: Se projektmappen 
+
+

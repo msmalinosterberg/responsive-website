@@ -1,0 +1,86 @@
+@media (max-width: 991px)  and (min-width: 768px) {
+
+/* HEADER */
+
+header {
+    height: 3.38rem;
+
+}
+
+.items-in-header {
+    max-width: 47rem;
+
+}
+
+.icon { 
+    height: 2.3rem;
+    
+}
+
+.hamburger {
+    display: unset;
+    padding: .5rem;
+
+}
+
+ul {
+    display: none;
+
+}
+
+
+/* HEADER */
+
+
+/* MAIN */
+
+
+h1 {
+    font-size: 6.5rem; 
+}
+
+
+/* MAIN */
+
+
+/* FOOTER */
+    
+
+footer{
+    padding-top: 2.5rem;
+    padding-bottom: 5rem;
+}
+
+.items-in-footer{
+        flex-direction: column;
+        max-width: 47rem;  
+}
+
+.links-container {
+        margin-top: 1rem;
+        margin-bottom: 7rem;
+    
+}
+    
+.ul-footer {
+       width: 47rem;
+        
+}
+
+.socialmedia-icons {
+   
+    flex-direction: row;
+    margin-left: 0;
+    justify-content: normal;    
+}
+
+
+
+/* FOOTER */
+
+
+
+
+
+
+}

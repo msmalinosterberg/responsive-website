@@ -1,0 +1,45 @@
+@media (max-width: 1200px)  and (min-width: 992px) {
+
+/* HEADER */
+
+.items-in-header {
+    max-width: 60.6rem;
+}
+
+/* HEADER */
+
+
+/* MAIN */
+
+main {
+    background-size: 153%;
+}
+
+.items-in-main {
+    max-width: 60.6rem;
+
+}
+
+h1 {
+    font-size: 6.5rem; 
+
+}
+/* MAIN */
+
+/* FOOTER */
+
+.items-in-footer {
+    max-width: 60.6rem;
+}
+
+.ul-footer {
+    width: 8.2rem; 
+}
+
+.socialmedia-icons {
+    margin-left: auto;
+}
+
+/* FOOTER */
+
+}
