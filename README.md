@@ -1,5 +1,5 @@
 # responsive-website
-Felicia Segerhollm & Malin Österberg
+Felicia Segerholm & Malin Österberg
 Inlämningsuppgift i HTML & CSS med fokus på responsivitet. Oktober 2020.
 
 
